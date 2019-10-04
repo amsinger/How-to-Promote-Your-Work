@@ -1,11 +1,10 @@
-# Sample-for-Students
-How to promote your work
+# Promote your work with README
 
 * If you're job hunting (and even if you're not), use github as a portfolio site where potential employers can get background information about your project. It's good practice to create a README file for each of your repositories. You can tell the backstory of your project. Include details that will let an editor understand how you approached the project and any challenges it raised. 
 
 * Information to add includes: 
 
-      -- what it is
+      -- a brief description of what the project is
       -- why you did it 
       -- how you did it
       -- where the data came from

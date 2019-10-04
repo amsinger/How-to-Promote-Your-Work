@@ -11,7 +11,7 @@
       -- how long it took
       -- how you would make it better 
       
-* Always add a link to the actual page, so the editor can see the project :)
+* Always add a link to the actual page, so the prospective employer can see the project :)
 
 * Explaining your original intent and where you got the data are most important. 
 

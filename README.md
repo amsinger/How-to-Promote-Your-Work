@@ -9,12 +9,9 @@ How to promote your work
 
 * You can customize your pins and choose what to show on top. See the [github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
 
-More [details](https://help.github.com/en/articles/about-readmes)about READMEs from github.
+* More [details](https://help.github.com/en/articles/about-readmes) about READMEs from github.
 
-* Two samples for guidance:
-https://github.com/demetriospogkas/FightHoax-Artificial-Intelligence-Fact-Checking-Tests/blob/master/README.md
-
-An analysis of Spanish elections: https://github.com/adrianblanco/stats/tree/master/classification-tree-model
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+* An [example.](https://github.com/adrianblanco/stats/tree/master/classification-tree-model)
+ 
+ I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 

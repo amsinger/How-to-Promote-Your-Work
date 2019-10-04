@@ -16,3 +16,6 @@ More details about READMEs from github: https://help.github.com/en/articles/abou
 https://github.com/demetriospogkas/FightHoax-Artificial-Intelligence-Fact-Checking-Tests/blob/master/README.md
 
 An analysis of Spanish elections: https://github.com/adrianblanco/stats/tree/master/classification-tree-model
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+

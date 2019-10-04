@@ -7,9 +7,9 @@ How to promote your work
 
 * Think of github as the place where you can explain your work. Your original intent and where you got the data are most important. 
 
-* You can customize your pins and choose what to show on top. See the [github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile)
+* You can customize your pins and choose what to show on top. See the [github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
 
-More details about READMEs from github: https://help.github.com/en/articles/about-readmes
+More [details](https://help.github.com/en/articles/about-readmes)about READMEs from github.
 
 * Two samples for guidance:
 https://github.com/demetriospogkas/FightHoax-Artificial-Intelligence-Fact-Checking-Tests/blob/master/README.md

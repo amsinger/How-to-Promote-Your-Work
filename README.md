@@ -20,6 +20,8 @@ How to promote your work
 
 * More [details](https://help.github.com/en/articles/about-readmes) about READMEs from github.
 
+* Markdown [details.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
 * An [example.](https://github.com/adrianblanco/stats/tree/master/classification-tree-model)
  
 

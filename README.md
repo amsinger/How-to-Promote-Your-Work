@@ -23,14 +23,16 @@ Always add a link to the actual page, so the prospective employer can see the pr
 
 ## Links and Examples
 
-An [example](https://github.com/adrianblanco/stats/tree/master/classification-tree-model) of how a former M.S. Data student used README.md.
+A few helpful resources:
 
-Github's [guide](https://guides.github.com/features/mastering-markdown/) to using Markdown.
+* An [example](https://github.com/adrianblanco/stats/tree/master/classification-tree-model) of how a former M.S. Data student used README.md.
 
-More [details](https://help.github.com/en/articles/about-readmes) about READMEs from Github.
+* Github's [guide](https://guides.github.com/features/mastering-markdown/) to using Markdown.
 
-Markdown [cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+* More [details](https://help.github.com/en/articles/about-readmes) about READMEs from Github.
 
-You can customize your pins and choose what to show on top. See the [Github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
+* Markdown [cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+* You can customize your pins and choose what to show on top. See the [Github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
  
 

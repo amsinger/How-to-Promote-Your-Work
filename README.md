@@ -1,7 +1,6 @@
 # Promote Your Work With README.md Files
 *Tips from the Office of Career Development, Columbia University Graduate School of Journalism*
 
-
 ## Why Use a README.md?
 
 If you're job hunting (and even if you're not), you can use github as a portfolio site to show potential employers background information about your projects. It's good practice to create a README file for each of your repositories. They will be easy for potential employers to find and will allow you to include details about the project that won't fit on a resume or in a cover letter. You can tell the backstory of your project and track the methods you used to find the data and the challenges you faced in wrangling it. There's no single format. Focus on details that will let an editor understand how you approached the project and how you handled any challenges. 

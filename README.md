@@ -13,14 +13,15 @@ Information to add includes:
   - where the data came from
   - how long it took
   - how you would make it better 
+
       
 Most important to include: An explanation of your original intent and where you got the data. 
 
-Always add a link to the actual page, so the prospective employer can see the project :grinning:	
+Always add a link to the actual page, so the prospective employer can see the project :grinning:
 
 ## Links and Examples
 
-* An [example.](https://github.com/adrianblanco/stats/tree/master/classification-tree-model)
+* An [example](https://github.com/adrianblanco/stats/tree/master/classification-tree-model) of how a former M.S. Data student used README.md.
 
 * Github's [guide](https://guides.github.com/features/mastering-markdown/) to using Markdown.
 

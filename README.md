@@ -2,17 +2,17 @@
 
 ## Why use a README.md?
 
-If you're job hunting (and even if you're not), you canuse github as a portfolio site where potential employers can get background information about your projects. It's good practice to create a README file for each of your repositories. They will be easy for potential employers to find and will allow you to include details about the project that won't fit on a resume or in a cover letter. You can tell the backstory of your project. You can explain what your initial pitch was. You can track the methods you used to find the data and the challenges you faced in wrangling it. There's no single format. Focus on details that will let an editor understand how you approached the project and how you handled any challenges. 
+If you're job hunting (and even if you're not), you can use github as a portfolio site where potential employers can get background information about your projects. It's good practice to create a README file for each of your repositories. They will be easy for potential employers to find and will allow you to include details about the project that won't fit on a resume or in a cover letter. You can tell the backstory of your project. You can explain what your initial pitch was. You can track the methods you used to find the data and the challenges you faced in wrangling it. There's no single format. Focus on details that will let an editor understand how you approached the project and how you handled any challenges. 
 
-## What a README.mc should include
+## What a README.md should include
 
 * Information to add includes: 
-      - a brief description of what the project is
-      - why you did it 
-      - how you did it
-      - where the data came from
-      - how long it took
-      - how you would make it better 
+  - a brief description of what the project is
+  - why you did it 
+  - how you did it
+  - where the data came from
+  - how long it took
+  - how you would make it better 
       
 * Always add a link to the actual page, so the prospective employer can see the project :)
 

@@ -27,10 +27,10 @@ Always add a link to the actual page, so the prospective employer can see the pr
 
 * Github's [guide](https://guides.github.com/features/mastering-markdown/) to using Markdown.
 
-* More [details](https://help.github.com/en/articles/about-readmes) about READMEs from github.
+* More [details](https://help.github.com/en/articles/about-readmes) about READMEs from Github.
 
 * Markdown [cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-* You can customize your pins and choose what to show on top. See the [github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
+* You can customize your pins and choose what to show on top. See the [Github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
  
 

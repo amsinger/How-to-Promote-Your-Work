@@ -1,4 +1,5 @@
 # Promote Your Work With README.md Files
+*Tips from the Office of Career Development, Columbia University Graduate School of Journalism*
 
 ## Why Use a README.md?
 

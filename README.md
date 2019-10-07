@@ -19,18 +19,18 @@ Information to add includes:
       
 Most important to include: An explanation of your original intent and where you got the data. 
 
-Always add a link to the actual page, so the prospective employer can see the project :grinning:
+Always add a link to the actual page, so the prospective employer can see the project. :grinning:
 
 ## Links and Examples
 
-* An [example](https://github.com/adrianblanco/stats/tree/master/classification-tree-model) of how a former M.S. Data student used README.md.
+An [example](https://github.com/adrianblanco/stats/tree/master/classification-tree-model) of how a former M.S. Data student used README.md.
 
-* Github's [guide](https://guides.github.com/features/mastering-markdown/) to using Markdown.
+Github's [guide](https://guides.github.com/features/mastering-markdown/) to using Markdown.
 
-* More [details](https://help.github.com/en/articles/about-readmes) about READMEs from Github.
+More [details](https://help.github.com/en/articles/about-readmes) about READMEs from Github.
 
-* Markdown [cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+Markdown [cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-* You can customize your pins and choose what to show on top. See the [Github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
+You can customize your pins and choose what to show on top. See the [Github profile guide](https://help.github.com/en/categories/setting-up-and-managing-your-github-profile).
  
 
